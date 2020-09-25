@@ -1,0 +1,18 @@
+.title-pg{
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.action{
+    padding: 4px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 6px 2px;
+}
+
+.action:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
